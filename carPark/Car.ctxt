@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ @Assignment\ 1\r\n\ @classDescription\ Car\ class\ returns\ value\ of\ member\ variables;\r\n\ @Junhyek\ Hyun\ <102524337>\r\n\ @version\ \ 1.6;\r\n
+comment1.params=
+comment1.target=Car()
+comment2.params=ownerName\ regNum
+comment2.target=Car(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ @param\ owner\ name,\ car\ reigration\ number\ -\ regNum;\r\n\ @constructor\ with\ parameter;\r\n\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getCarRegNum()
+comment3.text=\r\n\ getter\ method\ returns\ car\ registration\ number;\r\n\r\n
+comment4.params=emptyString
+comment4.target=void\ setCarRegNumNull(java.lang.String)
+comment4.text=\r\n\ setter\ method\ to\ initialize\ car\ registration\ number\ with\ ""\ value;\r\n\r\n
+comment5.params=
+comment5.target=java.lang.String\ getOwnerName()
+comment5.text=\r\n\ getter\ method\ returns\ owner\ name;\r\n\r\n
+numComments=6
